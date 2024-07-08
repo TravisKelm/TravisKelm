@@ -1,4 +1,4 @@
-## Hi there 👋
+## Dr. Travis R. Kelm 👋
 
 <!--
 **TravisKelm/TravisKelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I teach mathematics at California State University, Fresno.
+- 🌱 I’m currently learning PreText, MySQL, Python, and GitHub.
+- 💬 Ask me about low-dimenstional topology.
+- 📫 Office Location: Science1 Room 174
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I saw a dead body once.  Then it sat up!  It was just a guy sleeping.  Boy was I surprised!

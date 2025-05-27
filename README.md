@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about low-dimenstional topology.
 - 📫 Office Location: Science1 Room 174
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: In utero, I had a twin brother, which I ended up "subsuming".  It's called [Vanishing twin syndrome](https://en.wikipedia.org/wiki/Vanishing_twin).  Sometimes he talks to me.
+- ⚡ Fun fact: In utero, I had a twin brother, which I ended up "subsuming".  It's called [Vanishing twin syndrome](https://en.wikipedia.org/wiki/Vanishing_twin).  Sometimes he tells me things.
